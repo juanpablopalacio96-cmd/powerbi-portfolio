@@ -1,5 +1,11 @@
 ## Warehouse KPI Monitoring – Microsoft Fabric
+### Dashboard Preview
 
+![KPI Monitoring Overview](kpi-monitoring-overview.png)
+
+### KPI Status & Trends
+
+![KPI Status](kpi-alerts-detail.png)
 ### Context
 Centralized KPI monitoring dashboard built in Microsoft Fabric to track daily warehouse performance indicators across multiple Power BI reports.
 
