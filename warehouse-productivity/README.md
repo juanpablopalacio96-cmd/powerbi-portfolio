@@ -1,4 +1,11 @@
 ## Warehouse Picking Productivity Dashboard
+### Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+### KPI Detail
+
+![KPI](kpi-detail.png)
 
 ### Context
 Operational dashboard designed to monitor picking productivity in a warehouse environment, supporting workforce planning and daily performance tracking.
