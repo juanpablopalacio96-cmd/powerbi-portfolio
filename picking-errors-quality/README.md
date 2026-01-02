@@ -1,4 +1,7 @@
 ## Picking Errors & Quality Analysis Dashboard
+### Dashboard Preview
+
+![Errors Dashboard](errors-dashboard.png)
 
 ### Context
 Dashboard developed to analyze picking errors and product damage, helping improve quality control and reduce operational losses.
