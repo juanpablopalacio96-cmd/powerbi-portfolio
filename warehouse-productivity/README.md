@@ -1,22 +1,23 @@
-## Warehouse Productivity Dashboard
+## Warehouse Picking Productivity Dashboard
 
-**Context**  
-Dashboard designed to monitor warehouse productivity and support operational decisions.
+### Context
+Operational dashboard designed to monitor picking productivity in a warehouse environment, supporting workforce planning and daily performance tracking.
 
-**Business Questions**
-- How does productivity evolve by day?
-- Which days require higher staffing levels?
-- Where are productivity bottlenecks?
+### Business Questions
+- How does picking productivity evolve by day and month?
+- Which periods show lower productivity levels?
+- How does daily output relate to workforce performance?
 
-**KPIs**
-- Productivity (units/hour)
-- Total output
-- Attendance rate
+### KPIs
+- Picking productivity (units/hour)
+- Total picked units
+- Daily and monthly performance trends
 
-**Tools**
+### Tools
 - Power BI
 - DAX
-- Excel
+- Excel (data source)
 
-**Outcome**
-The dashboard helps supervisors identify low-performance periods and adjust workforce allocation.
+### Outcome
+This dashboard allows supervisors and managers to identify productivity trends, detect performance drops, and take corrective actions to optimize warehouse operations.
+
