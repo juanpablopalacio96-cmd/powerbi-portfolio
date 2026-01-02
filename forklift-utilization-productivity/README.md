@@ -1,7 +1,7 @@
 ## Forklift Utilization Productivity Dashboard
 ### Dashboard Preview
 
-![Forklift Dashboard](forklift-dashboard.png)
+![Forklift Dashboard](forklift-dashboard1.png)
 ### Context
 Operational dashboard designed to analyze forklift utilization and driver productivity in warehouse operations.
 
