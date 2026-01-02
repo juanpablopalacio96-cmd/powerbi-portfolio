@@ -1,5 +1,7 @@
 ## Inventory Tracking – Physical vs System Stock
+### Dashboard Preview
 
+![Inventory Dashboard](inventory-dashboard.png)
 ### Context
 Inventory monitoring dashboard designed to track daily differences between physical stock counts and system (theoretical) inventory.
 
